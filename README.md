@@ -1,2 +1,4 @@
 # iac_demo
-iac(infraestructura como codigo)-utilizando render.com
+# git add render.yaml
+# git commit -m "Add render.yaml"
+# git push
